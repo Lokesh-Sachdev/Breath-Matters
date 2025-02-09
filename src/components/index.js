@@ -1,0 +1,14 @@
+export { default as BenefitsGrid } from "./BenefitsGrid";
+export { default as Brands } from "./Brands";
+export { default as BreathingIssues } from "./BreathingIssues";
+export { default as CapnotrainerIntro } from "./CapnotrainerIntro";
+export { default as CTASection } from "./CTASection";
+export { default as FAQ } from "./FAQ";
+export { default as Footer } from "./Footer";
+export { default as Header } from "./Header";
+export { default as HowItWorks } from "./HowItWorks";
+export { default as KeyFeatures } from "./KeyFeatures";
+export { default as PowerOfCapnoTrainer } from "./PowerOfCapnoTrainer";
+export { default as Testimonials } from "./Testimonials";
+export { default as WhatMakesDifferent } from "./WhatMakesDifferent ";
+export { default as WhoIsItFor } from "./WhoIsItFor";
