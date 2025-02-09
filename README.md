@@ -189,11 +189,8 @@ The project uses Tailwind CSS for styling. Key customizations include:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
 ## Contact
 
 Project Link: https://breath-matters.vercel.app/
+
 Mail: Sachdev927@gmail.com
